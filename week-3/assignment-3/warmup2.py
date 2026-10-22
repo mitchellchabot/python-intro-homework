@@ -1,6 +1,6 @@
 age = int(input("What is your age? "))
 if age >= 65:
-  pring("Senior")
+  print("Senior")
 elif age >=18:
   print("Adult")
 elif age >=13:
