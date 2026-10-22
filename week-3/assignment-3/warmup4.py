@@ -1,5 +1,5 @@
 
-number = int(0input("Enter a number: "))
+number = int(input("Enter a number: "))
 
 if number < 0:
   print(f"{number} is a negative")
